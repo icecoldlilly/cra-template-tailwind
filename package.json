@@ -1,5 +1,5 @@
 {
-  "name": "cra-template-tailwind",
+  "name": "@bamya/cra-template-tailwind",
   "version": "1.0.0",
   "keywords": [
     "react",
@@ -25,5 +25,7 @@
   "files": [
     "template",
     "template.json"
-  ]
+  ],
+  "devDependencies": {},
+  "dependencies": {}
 }
