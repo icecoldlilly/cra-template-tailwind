@@ -1,0 +1,1 @@
+This project was bootstrapped with [CRA-tailwind](https://github.com/hilalh/cra-tailwind) template .
