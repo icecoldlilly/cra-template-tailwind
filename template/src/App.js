@@ -1,8 +1,7 @@
 import React from 'react';
 import styled from 'styled-components/macro';
 import tw from 'tailwind.macro';
-import { ReactComponent as Logo } from './logo.svg';
-import './App.css';
+import 'App.css';
 // use tailwind classes the styled way
 const Header = styled.header`
   ${tw`bg-pink-300 min-h-screen flex flex-col items-center justify-center text-xl text-purple-600`};

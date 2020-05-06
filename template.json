@@ -12,7 +12,9 @@
             "postcss-cli": "^7.1.1",
             "tailwindcss": "^1.4.4",
             "@craco/craco": "latest",
-            "eslint-config-bamya": "latest"
+            "eslint-config-bamya": "latest",
+            "eslint-plugin-import": "^2.20.2",
+            "eslint-import-resolver-alias": "^1.1.2"
         },
         "eslintConfig": {
             "extends": "bamya"

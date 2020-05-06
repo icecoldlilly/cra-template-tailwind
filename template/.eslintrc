@@ -1,5 +1,15 @@
 {
   "extends": [
     "eslint-config-bamya"
-  ]
+  ],
+  "settings": {
+    "import/resolver": {
+      "node": {
+        "moduleDirectory": [
+          "node_modules",
+          "src/"
+        ]
+      }
+    }
+  }
 }
